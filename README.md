@@ -12,3 +12,7 @@ I have created this repo to back up and share the small tools that I write to ma
 Depends on the language the tool has been written in. Since the aim is to write tools to make my daily life easy or maximum to aid in a project, it will most probably be in either one of python, bash or c so you would need the basic essentials required to run code in the aforementioned languages (preferably latest python,gcc etc)
 
 __Disclaimer__: The tools that I am or would be writing have and will be solely written for my own convenience. I take no guarantees that it will work out in your case, please read the descriptions in the scripts clearly and be the best judge of your needs. The author of the script won't be responsible if the tool fails or causes any failure if integrated to another software.
+
+**Tool Details**
+
+- URLInspector : This tool as of now creates a query string for google's SAFE Browsing API. You can use it to get URL report from google's API. There are ample self explanatory comments for details of how to use and what to pass to the tool. 
